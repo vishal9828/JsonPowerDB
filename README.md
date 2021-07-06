@@ -14,3 +14,4 @@ Benefits of using JsonPowerDB
 *It helps developers in faster coding, in-turn reduces development cost.
 
 ![jbdb_dashboard](https://user-images.githubusercontent.com/50186424/124644110-8364da80-deaf-11eb-95e9-e2a0542cacfa.png)
+![jpdb_visualize](https://user-images.githubusercontent.com/50186424/124644214-a2636c80-deaf-11eb-82e1-6a591a2b1e00.png)
